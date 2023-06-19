@@ -11,3 +11,8 @@ The change of images and title is handled by using the reactive functionality of
 1. Title year section is a variable in the data.
 2. The image name is a variable in the data.
 3. An event on click was placed over the image that toggles the value from *before* to *after* and backwards, that updates the values of the title and image, the rest is handled by Vue.
+
+## Important
+This project uses JavaScript modules therefore requires a host.  Plese check it working at its repository in the URL:
+
+https://lhozbu.github.io
